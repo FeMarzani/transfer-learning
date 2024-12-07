@@ -30,12 +30,6 @@ O objetivo do projeto foi aplicar Transfer Learning para criar um modelo de Deep
 
 ---
 
-## **Resultados**
-- O modelo atingiu uma **alta precisão** nos dados de validação, comprovando a eficácia do Transfer Learning.
-- A inferência realizada com novas imagens demonstrou o sucesso do modelo na tarefa de classificação.
-
----
-
 ## **Tecnologias Utilizadas**
 - **Linguagem**: Python
 - **Frameworks**: TensorFlow, Keras
